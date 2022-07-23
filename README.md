@@ -1,14 +1,14 @@
 # CartMax-ecommerce-website
 
-##Technologies used
+## Technologies used
 
-###For fronted:
+###  fronted:
 
 >HTML,CSS & Vanilla Js
 
 CSS framework:bootstrap
 
-###For Backend:
+### For Backend:
 
 >Flask
 
