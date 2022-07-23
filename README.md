@@ -1,10 +1,15 @@
 # CartMax-ecommerce-website
 
-##Technologies used 
+##Technologies used
+
 ###For fronted:
+
 >HTML,CSS & Vanilla Js
+
 CSS framework:bootstrap
+
 ###For Backend:
+
 >Flask
 
 >CartMax is a online platform where a user can purchase or sell items available on the market.
